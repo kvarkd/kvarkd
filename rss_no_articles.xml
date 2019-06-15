@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:yandex="http://news.yandex.ru">
+	<channel>
+		<title>Новости Омска и Омской области — СуперОмск</title>
+		<description>Самые свежие новости из жизни Омска и Омской области за сегодня. РИА СуперОмск — это ежедневный дайджест событий, новостей, блогов и комментариев. СуперОмск — информационное агентство для неравнодушных людей. О главном без пропаганды!</description>
+		<link>https://superomsk.ru</link>
+		<lastBuildDate>Tue, 28 May 2019 10:33:02 +0600</lastBuildDate>
+		<image>
+			<url>https://superomsk.ru/design/cms/images/logo.png</url>
+			<title>Новости Омска и Омской области — СуперОмск</title>
+			<link>https://superomsk.ru</link>
+		</image>
+		<language>ru</language>
+	</channel>
+</rss>
